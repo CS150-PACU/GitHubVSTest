@@ -26,6 +26,8 @@ int main() {
 	cout << " So Much FUN!";
 	cout << " PUSH";
 
+	cout << "EDIT\n";
+
 	return EXIT_SUCCESS;
 }
 

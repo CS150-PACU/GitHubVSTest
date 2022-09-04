@@ -23,6 +23,7 @@ using namespace std;
 int main() {
 
 	cout << " HELLO FROM GITHUB AND VS " << endl;
+	cout << " So Much FUN!";
 
 	return EXIT_SUCCESS;
 }

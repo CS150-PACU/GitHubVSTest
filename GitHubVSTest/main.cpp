@@ -24,6 +24,7 @@ int main() {
 
 	cout << " HELLO FROM GITHUB AND VS " << endl;
 	cout << " So Much FUN!";
+	cout << " PUSH";
 
 	return EXIT_SUCCESS;
 }
